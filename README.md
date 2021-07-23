@@ -68,14 +68,14 @@ e. bahwa untuk dapat mencapai maksud tersebut di atas, perlu diadakan
 
 ## Menetapkan
 
-* BAB I: Ketentuan Umum
-* BAB II: NPWP, SPt dan Tata Cara Pembayaran Pajak
-* BAB III: Penetapan dan Ketetapan Pajak
-* BAB IV: Penagihan Pajak
-* BAB V: Keberatan dan Banding
-* BAB VI: Pembukuan dan Pemeriksaan
-* BAB VII: Ketentuan Umum
-* BAB VIII: Ketentuan Pidana
-* BAB IX: Penyidikan
-* BAB X: Ketentuan Peralihan
-* BAB XI: Ketentuan Penutup
+* [BAB I: Ketentuan Umum](tree/main/Bab_01)
+* [BAB II: NPWP, SPt dan Tata Cara Pembayaran Pajak](tree/main/Bab_02)
+* [BAB III: Penetapan dan Ketetapan Pajak](tree/main/Bab_03)
+* [BAB IV: Penagihan Pajak](tree/main/Bab_04)
+* [BAB V: Keberatan dan Banding](tree/main/Bab_05)
+* [BAB VI: Pembukuan dan Pemeriksaan](tree/main/Bab_06)
+* [BAB VII: Ketentuan Umum](tree/main/Bab_07)
+* [BAB VIII: Ketentuan Pidana](tree/main/Bab_08)
+* [BAB IX: Penyidikan](tree/main/Bab_09)
+* [BAB X: Ketentuan Peralihan](tree/main/Bab_10)
+* [BAB XI: Ketentuan Penutup](tree/main/Bab_11)
