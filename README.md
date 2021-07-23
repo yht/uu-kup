@@ -2,28 +2,32 @@
 
 ## Menimbang
 
-1. bahwa Negara Republik Indonesia adalah negara hukum berdasarkan Pancasila dan
+a. bahwa Negara Republik Indonesia adalah negara hukum berdasarkan Pancasila dan
    Undang-Undang Dasar 1945 yang menjunjung tinggi hak dan kewajiban warga
    negara, karena itu menempatkan perpajakan sebagai salah satu perwujudan
    kewajiban kenegaraan bagi para warganya yang merupakan sarana peran serta
    dalam pembiayaan negara dan pembangunan nasional;
-2. bahwa sistem perpajakan yang merupakan landasan pelaksanaan pemungutan pajak
+
+b. bahwa sistem perpajakan yang merupakan landasan pelaksanaan pemungutan pajak
    negara yang selama ini berlaku, tidak sesuai lagi dengan tingkat kehidupan
    sosial-ekonomi masyarakat Indonesia baik dalam segi kegotongroyongan nasional
    maupun dalam laju pembangunan nasional yang telah dicapai;
-3. bahwa sistem perpajakan yang tertuang di dalam ketentuan-ketentuan perpajakan
+
+c. bahwa sistem perpajakan yang tertuang di dalam ketentuan-ketentuan perpajakan
    yang berlaku selama ini belum dapat menggerakkan peran serta semua lapisan
    subyek pajak yang besar peranannya dalam meningkatkan penerimaan dalam negeri
    dan sangat diperlukan guna mewujudkan kelangsungan dan peningkatan
    pembangunan nasional;
-4. bahwa oleh karena itu, sesuai pula dengan amanat yang terkandung dalam
+
+d. bahwa oleh karena itu, sesuai pula dengan amanat yang terkandung dalam
    Garis-garis Besar Haluan Negara (Ketetapan Majelis Permusyawaratan Rakyat
    Republik Indonesia Nomor II/MPR/ 1983), perlu diadakan pembaharuan sistem
    perpajakan yang berlaku dengan sistem yang memberikan kepercayaan kepada
    subyek pajak untuk melaksanakan kewajiban serta memenuhi haknya di bidang
    perpajakan, sehingga dapat mewujudkan perluasan dan peningkatan kesadaran
    kewajiban perpajakan serta meratakan pendapatan masyarakat;
-5. bahwa untuk dapat mencapai maksud tersebut di atas, perlu diadakan
+
+e. bahwa untuk dapat mencapai maksud tersebut di atas, perlu diadakan
    pembaharuan dan penggantian peraturan perundang-undangan perpajakan yang
    selama ini berlaku;
 
