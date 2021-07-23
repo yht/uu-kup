@@ -35,3 +35,43 @@ melaporkan ke Direktorat Jenderal Pajak;
 
 j. Surat Tagihan Pajak adalah surat untuk melakukan tagihan pajak dan,/atau sanksi
 berupa bunga dan denda administrasi;
+
+k. Surat Ketetapan Pajak adalah, surat keputusan yang menentukan besarnya jumlah
+pajak yang terhutang, jumlah pengurangan pembayaran pajak, jumlah kekurangan
+pembayaran pokok pajak, besarnya sanksi administrasi, dan jumlah pajak yang
+masih harus dibayar;
+
+l. Surat Ketetapan Pajak Tambahan adalah Surat keputusan yang menambah jumlah
+pajak yang telah ditetapkan;
+
+m. Surat Keputusan Kelebihan Pembayaran Pajak adalah surat keputusan yang
+menentukan pengembalian kelebihan pembayaran jumlah pajak yang telah dibayar
+dan/atau dipotong dan/atau dipungut, karena jumlah pajak yang telah dibayar
+dan/atau dipotong dan/atau dipungut lebih besar dari pajak yang terhutang;
+
+n. Surat Pemberitaan adalah surat yang berisi pemberitahuan kepada Wajib Pajak,
+bahwa jumlah pajak yang terhutang sama besarnya dengan jumlah pajak yang
+sudah dibayar, dan/atau dipotong dan/atau dipungut;
+
+o. Pajak yang terhutang adalah pajak yang harus dibayar pada suatu saat, dalam Masa
+Pajak, dalam Tahun Pajak atau dalam Bagian Tahun Pajak menurut ketentuan
+peraturan perundang-undangan perpajakan;
+
+p. Surat Paksa adalah surat perintah membayar pajak dan tagihan yang berkaitan
+dengan pajak, sesuai dengan Undang-undang Nomor 19 Tahun 1959 tentang
+Penagihan Pajak Negara dengan Surat Paksa (Lembaran Negara Tahun 1959
+Nomor 63, Tambahan Lembaran Negara Nomor 1850);
+
+q. Kredit Pajak adalah jumlah pembayaran pajak yang dibayar oleh Wajib Pajak
+sendiri, setelah ditambah dengan pajak yang dipotong atau dipungut oleh pihak lain
+dan dikurangkan dari seluruh pajak yang terhutang termasuk apabila ada jumlah
+pajak atas penghasilan yang terhutang di luar negeri;
+
+r. Pekerjaan Bebas adalah pekerjaan yang dilakukan oleh seseorang yang mempunyai
+keahlian khusus sebagai usaha untuk memperoleh penghasilan yang tidak terikat
+oleh suatu hubungan kerja;
+
+s. Tindakan Pemeriksaan adalah tindakan yang dilakukan oleh petugas perpajakan
+dalam rangka melaksanakan pemeriksaan terhadap Wajib Pajak, untuk mencari
+bahan-bahan guna penghitungan jumlah pajak yang terhutang dan jumlah pajak
+yang harus dibayar.
